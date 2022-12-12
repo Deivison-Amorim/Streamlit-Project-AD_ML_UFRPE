@@ -5,7 +5,7 @@ import altair as alt
 import time as time
 
 dataset = pd.read_csv(
-    'F:\Streamlit\Arquivos_Alunos\dataset_review_books_csv')
+    'Streamlit_AD_ML_UFRPE/Arquivos_Alunos/dataset_review_books_csv')
 
 # dataset = pd.read_excel(
 #    io='F:\Streamlit\Arquivos_Alunos\Datasets\dataset_review_books.xlsx',
