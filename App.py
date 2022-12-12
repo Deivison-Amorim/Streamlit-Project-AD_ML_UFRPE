@@ -5,7 +5,7 @@ import altair as alt
 import time as time
 
 dataset = pd.read_csv(
-    'F:\Streamlit\dataset_review_books_csv.csv')
+    'dataset_review_books_csv.csv')
 
 with st.sidebar:
     st.subheader("DASHBOARD - MENU")
